@@ -1,7 +1,5 @@
 package core;
 
-import java.io.Console;
-
 import game.HumanPlayer;
 import game.Match;
 import state.BoardFactory;
