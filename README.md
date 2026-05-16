@@ -1,6 +1,6 @@
 # chess-game
 
-# How to Run
+## How to Run
 
 The project is configured to launch the main class `ui.GuiMain` using the JavaFX Maven Plugin.
 
